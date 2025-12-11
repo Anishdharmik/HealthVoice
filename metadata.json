@@ -1,0 +1,7 @@
+{
+  "name": "HealthVoice AI",
+  "description": "A multilingual voice-first healthcare chatbot for symptom triage and diagnosis assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
